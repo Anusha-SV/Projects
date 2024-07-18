@@ -1,0 +1,65 @@
+~19/6
+class is the keyword which is used to declare the program
+extension of .class is called byte code which is understod by JVM
+ 
+~20/6
+java file basically have 2 parts JDK and JRE.
+JDK is the java development kit contains tools and JRE
+JRE contains JVM and libraries.
+1 class declaration is 1 byte code.
+
+.1 java file can have n number of class declaration
+
+public static void main(String[]args){
+public: means acess specifier and there are 4 types namely public,protected,package default/no access specifer and private.
+static:non access specifier
+void:keyword means no return type
+main: name of the method
+(String[]args): parameter
+~System.out.println("");
+system:inbuild class
+. : operator call var and method in cls
+println: static method
+(""):argument
+
+~21/6
+jar=java archive
+jar is group of .class files
+
+~Platform independent
+is a combination of hardware with operating system
+*WORA=write once and run anywhere which means the java code (byte code)can be wriiten once and can be run in any software 
+like linux win and mac
+~methods's= syntax
+simple block(start and stop) with name and consist of statements
+name()
+{
+}
+executed by JVM
+used to run  other cls
+in method there are 6 parts 2 mandatory and remaining optional
+    optional                 optinal                    mandatory       mandatory      optional  
+access-specifier=>non access specifier=>return type=>method name(parameter)throws clssname
+                                static                            void
+                                final and abstarct        datatype
+
+~24/6
+~25/6
+run prog will create jvm and it create it is called heap
+heap will create another momery aclled metaspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
