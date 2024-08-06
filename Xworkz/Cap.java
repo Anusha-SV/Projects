@@ -8,8 +8,6 @@ class Cap{
 		color= colour;
 		quality= qual;
 		price= pri;
-		
-		
 	}
 	
 }
